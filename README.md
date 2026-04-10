@@ -1,10 +1,10 @@
 # Insurance-Premium-KPI-Dashboard
 # 📊 Key Dashboards & Features
-- 1. Executive Summary
+1. Executive Summary
 KPI Tracking: Real-time monitoring of 7,299+ policies.
 Financial Metrics: Total Annual Premium ($2,161.60M), Total Paid vs. Payable amounts, and Underwriting expenses.
 Customer Detail: Granular table view showing tenure, ROI, and payment duration per policyholder.
-- 2. Market & Policy Insights
+2. Market & Policy Insights
 Policy Segmentation: Analysis of Endowment, Universal, and Whole Life insurance types.
 Demographics: Revenue breakdown by Occupation (e.g., Theatre, Horticulture) and State (Delhi & UP leading).
 Sales Trends: Historical line charts showing premium growth from 2016 to 2024.
@@ -22,3 +22,5 @@ Excel/SQL: Data source management and initial data structuring.
 Revenue Drivers: Universal and Whole Life policies contribute nearly 68% of the total annual premium.
 Geographic Focus: The Northern region (Delhi/UP) is the primary revenue generator; expansion strategies are recommended for Central regions.
 Operational Efficiency: Currently, 63.82% of premiums are successfully collected, with a targeted plan needed for the 36.18% payable balance.
+# Author
+Project By: SravaniG
